@@ -170,5 +170,3 @@
 		if (hay_captcha) {Reportar("captcha");} // reporta el problema
 	}
 })();
-
-
