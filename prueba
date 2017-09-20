@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         EpeniBot
-// @version      1.13x
-// @description  Este es identico a la version original, pero es de prueba!
+// @version      1.15j
+// @description  aqui hacemos algunas modificaciones poco significativas
 // @author       laurentum
 // @match        https://freebitco.in/*
 // @grant        none
@@ -13,7 +13,7 @@
 
 	var version="1.13";
 
-	// función para consultar tiempo restante hasta próximo roll
+	// función para consultar tiempo restante hasta próximo jugada
 	function tiemporestante(){
 		var tR={};
 		tR.texto = $('title').text().replace("FreeBitco.in - Free Bitcoin Wallet, Faucet, Lottery and Dice!","");
