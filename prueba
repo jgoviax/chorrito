@@ -6,7 +6,6 @@
 // @match        https://freebitco.in/*
 // @grant        none
 // @downloadURL  https://github.com/jgoviax/chorrito/blob/master/robot_publico.js
-// @updateURL    https://github.com/jgoviax/chorrito/blob/master/robot_publico.js
 // ==/UserScript==
 
 (function() {
